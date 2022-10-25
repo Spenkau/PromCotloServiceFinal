@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab7070a5-0e25-40da-88a9-7e2cb28277c9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26h7whmLZajGUaMBah0UWiTKgHG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Work_Data/PromCotloServis",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab7070a5-0e25-40da-88a9-7e2cb28277c9" name="Changes" comment="" />
+      <created>1647864205806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647864205806</updated>
+      <workItem from="1647864206941" duration="13000" />
+      <workItem from="1659335354360" duration="1486000" />
+      <workItem from="1659356677446" duration="628000" />
+      <workItem from="1659442423632" duration="1199000" />
+      <workItem from="1661929785282" duration="918000" />
+      <workItem from="1662367831509" duration="2377000" />
+      <workItem from="1665390821171" duration="5368000" />
+      <workItem from="1665484115023" duration="1852000" />
+      <workItem from="1665731191965" duration="7976000" />
+      <workItem from="1665987950362" duration="1782000" />
+      <workItem from="1666082690899" duration="7917000" />
+      <workItem from="1666163463240" duration="6453000" />
+      <workItem from="1666260556457" duration="839000" />
+      <workItem from="1666560073534" duration="4064000" />
+      <workItem from="1666678344520" duration="991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
